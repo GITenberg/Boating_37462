@@ -1,0 +1,35 @@
+_repo: Boating_37462
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dadd, Frank
+    alias: Dadd, F.
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '9883'
+    url: http://www.gutenberg.org/2009/agents/9883
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woodgate, Walter Bradford
+    alias: Woodgate, W. B. (Walter Bradford)
+    birthdate: 1842
+    deathdate: 1920
+    gutenberg_agent_id: '38860'
+    url: http://www.gutenberg.org/2009/agents/38860
+description: ''
+gutenberg_issued: '2011-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Rowing'
+title: Boating
+url: http://www.gutenberg.org/ebooks/37462
